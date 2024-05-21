@@ -288,7 +288,166 @@ A片	Porn	Pornô	Порно	Porno	Porno	Porno	Porno	Pornografía	Porno	ポルノ
 饥渴	Horny	Tesão	Роговой	Geil	Eccitato	Corné	Seksualnie podniecony	Córneo	Terangsang	角質	흥분합니다	Malibog	सींग का बना
 湿的	Wet	Molhado	Влажный	Nass	Bagnato	Mouillé	Mokry	Húmedo	Basah	濡れた	젖은	Basa	गीला
 文爱	Sext	Sext	Секс	Sext	Sext	Sext	Sext	Sexta	Sext	セクスト	sext	Sext	सेक्स्ट
-随机性关系	Hookup	Ligar	Монтировать	Anschließen	Allacciare	Brancher	Połączenie	Conectar	Pasang	つなぐ	연관	Hookup	जोड़ना`
+随机性关系	Hookup	Ligar	Монтировать	Anschließen	Allacciare	Brancher	Połączenie	Conectar	Pasang	つなぐ	연관	Hookup	जोड़ना
+	sexy	sexy	сексуальный	sexy	sexy	sexy	seksowny	sexy	seksi	セクシー	섹시한	sexy	कामुक
+	breasts	seios	грудь	Brüste	seni	seins	piersi	senos	payudara	胸	가슴	mga suso	स्तनों
+	chest	peito	грудь	Brust	Petto	poitrine	klatka piersiowa	pecho	dada	胸	가슴	dibdib	छाती
+	butt	bunda	задница	Hintern	culo	bout	krupon	culata	pantat	お尻	대상	puwit	बट
+	sexually	sexualmente	сексуально	sexuell	sessualmente	sexuellement	seksualnie	sexualmente	secara seksual	性的に	성적으로	sekswal	यौन
+	gay	homossexual	гей	Fröhlich	gay	gay	wesoły	homosexuales	homo	ゲイ	게이	bakla	समलैंगिक
+	boobs	peitos	буфера	Brüste	tette	seins	piersi	tetas	payudara	おっぱい	가슴	boobs	स्तन
+	bitch	cadela	сука	Hündin	cagna	chienne	suka	perra	jalang	雌犬	암캐	asong babae	कुतिया
+	bisexual	bissexual	бисексуальный	bisexuell	bisessuale	bisexuel	biseksualny	bisexual	biseksual	バイセクシュアル	양성애자	bisexual	उभयलिंगी
+	bra	sutiã	бюстгальтер	BH	reggiseno	soutien-gorge	biustonosz	sostén	BH	ブラジャー	브래지어	bra	ब्रा
+	sexuality	sexualidade	сексуальность	Sexualität	sessualità	sexualité	seksualność	sexualidad	seks	セクシュアリティ	성별	sekswalidad	कामुकता
+	virgin	virgem	девственник	Jungfrau	vergine	vierge	dziewica	virgen	perawan	処女	숫처녀	Birhen	कुँवारी
+	breast	seios	грудь	Brust	seno	sein	pierś	mama	dada	胸	가슴	dibdib	स्तन
+	sexo	sexo	сексо	sexo	sesso	sexe	seks	sexo	seks	セックス	섹스	sexo	सेक्स
+	sucking	sucção	сосание	saugen	succhiare	succion	przy piersi	succión	menghisap	吸う	빨아들이는	pagsuso	अनुभवहीन
+	whore	prostituta	шлюха	Hure	puttana	putain	kurwa	puta	pelacur	売春婦	매춘부	kalapating mababa ang lipad	वेश्या
+	pervert	perverter	извращенец	pervers	pervertito	pervers	zboczeniec	pervertido	orang cabul	変態	변태	pervert	गुमराह आदमी
+	lick	lamber	лизать	lecken	leccata	lécher	lizać	lamer	menjilat	なめる	핥다	dilaan	चाटना
+	moaning	gemendo	стоны	Stöhnen	lamenti	gémissant	beczenie	gimiendo	mengerang	うめき声	신음	umuungol	कराह रही
+	masturbating	se masturbando	мастурбирует	masturbieren	masturbarsi	se masturber	masturbacja	masturbándose	masturbasi	自慰行為	자위	nagsasalsal	हस्तमैथुन
+	licking	lambendo	лизать	Lecken	leccata	lécher	lizanie	paliza	menjilati	なめる	대단히	pagdila	चाट
+	busty	peituda	грудастая	vollbusig	tettona	gros seins	cycata	tetona	berdada	巨乳な	가슴이 큰	busty	के लिए Busty
+	dicks	paus	члены	Schwänze	cazzi	bites	kutasy	pollas	penis	ディックス	자지	titi	डिक्स
+	lesbian	lésbica	лесбиянка	lesbisch	lesbica	lesbienne	lesbijka	lesbiana	lesbian	レズビアン	레즈비언	tomboy	लेस्बियन
+	nude	nu	обнаженная	nackt	nudo	nu	nagi	desnudo	telanjang	ヌード	나체상	hubad	नंगा
+	anus	ânus	анус	Anus	ano	anus	odbyt	ano	dubur	肛門	항문	anus	गुदा
+	piss	xixi	ссать	Piss	pisciare	pisse	siki	orinar	kencing	小便	소변	umihi	पेशाब
+	sperm	esperma	сперма	Sperma	sperma	sperme	sperma	esperma	sperma	精子	정액	tamud	शुक्राणु
+	bust	busto	бюст	Büste	torace	bousiller	biust	busto	menyergap	バスト	흉상	bust	छाती
+	thong	Correia	стринги	Tanga	perizoma	lanière	rzemień	correa	tali	Tバック	가죽 끈	sinturon	पेटी
+	erection	ereção	эрекция	Erektion	erezione	érection	erekcja	erección	pemasangan	勃起	발기	paninigas	निर्माण
+	raped	estuprada	изнасиловал	vergewaltigt	violentata	violé	zgwałcony	violada	diperkosa	レイプされた	강간당한	ginahasa	बलात्कार
+	virginity	virgindade	девственность	Jungfräulichkeit	verginità	virginité	dziewictwo	virginidad	keperawanan	処女	처녀성	pagkabirhen	कौमार्य
+	nasty	nojento	противный	böse	sgradevole	méchant	paskudny	asqueroso	tidak menyenangkan	汚い	끔찍한	pangit	बहुत खराब
+	cunt	boceta	пизда	Fotze	fica	chatte	cipa	coño	vagina	女性器	여성 성기	puki	योनी
+	puta	colocar um	пута	puta	puta	putain	puta	Poner un	puta	ピュタ	푸타	puta	पुटा
+	booty	saque	добыча	Beute	bottino	butin	łup	botín	barang rampasan	戦利品	전리품	nadambong	लूट का माल
+	bimbo	boba	дурочка	Blödmann	bimbo	bimbo	bimbo	Cabeza hueca	murahan	ふしだらな女	창녀	bimbo	बिम्बो
+	pee	urina	пописать	pinkeln	fare pipì	pipi	robić siku	orinar	kencing	おしっこ	오줌	umihi	पेशाब करना
+	cintura	cintura	пояс	cintura	cintura	ceinture	cintura	cintura	cintura	チンチュラ	신투라	cintura	सिंतुरा
+	licked	lambeu	лизнул	geleckt	leccato	léché	polizane	lamido	menjilat	なめた	핥았	dinilaan	पाला
+	doggy	cachorrinho	собачка	Hündchen	cagnolino	chienchien	psi	perrito	anjing	わんちゃん	개의	aso	कुत्ता
+	hentai	hentai	хентай	Hentai	hentai	hentaï	Hentai	hentai	hentai	エロアニメ	헨타이	hentai	हेनतई
+	boner	tesão	стояк	Boner	erezione	gaffe	głupek	metedura de pata	kesalahan yg bodoh	ばかげた	얼빠진 실책	boner	चोट
+	raping	estuprar	изнасилование	Vergewaltigung	stupro	violer	gwałt	violar	memperkosa	強姦	강간	panggagahasa	बलात्कार
+	fart	peidar	пердеть	Furz	scoreggia	Pet	pierdnięcie	pedo	kentut	おなら	방귀	umutot	पाद छोड़ना
+	vibrator	vibrador	вибратор	Vibrator	vibratore	vibreur	wibrator	vibrador	penggetar	バイブレーター	진동기	vibrator	थरथानेवाला
+	masturbation	masturbação	мастурбация	Masturbation	masturbazione	masturbation	masturbacja	masturbación	onani	オナニー	수음	masturbesyon	हस्तमैथुन
+	cowgirl	vaqueira	пастушка	Cowgirl	cowgirl	cow-girl	kowbojka	vaquera	gadis koboi	騎乗位	카우걸	cowgirl	काउगर्ल
+	prostitute	prostituta	Проститутка	Prostituierte	prostituta	prostituée	prostytutka	prostituta	pelacur	売春婦	매춘부	kalapating mababa ang lipad	रंडी
+	asses	bundas	задницы	Ärsche	asini	culs	osły	culos	keledai	ロバ	엉덩이	mga asno	गधे
+	boob	peito	Сиська	Brust	tetta	seins	gafa	teta	dada	おっぱい	얼간이	boob	उल्लू
+	fuckin	porra	чертовски	Verdammt	cazzo	putain	kurwa	jodido	sialan	くそー	빌어먹을	fuckin	कमीने
+	verga	Verga	верга	verga	verga	verga	werga	verga	benar	ベルガ	베르가	verga	verga
+	armpit	axila	подмышка	Achsel	ascella	aisselle	Pacha	axila	ketiak	脇の下	겨드랑이	kilikili	कांख
+	garota	garota	Гарота	garota	garota	garota	garota	garota	garota	ガロタ	가로타	garota	गरोटा
+	playboy	playboy	плейбой	Playboy	playboy	playboy	lekkoduch	playboy	playboy	プレイボーイ	놀러 다니는 청년	playboy	कामचोर
+	onlyfans	únicos fãs	только фанаты	onlyfans	onlyfans	uniquement les fans	tylko fani	solo fans	hanya penggemar	ファンのみ	팬만	onlyfans	केवल प्रशंसक
+	titties	peitos	сиськи	Titten	tette	seins	Cycki	tetas	payudara	おっぱい	젖가슴	titties	स्तन
+	levanta	levanta	Леванта	Levanta	levanta	levante	lewanta	levanta	levanta	レヴァンタ	레반타	levanta	लेवांता
+	bras	sutiãs	бюстгальтеры	BHs	reggiseni	bras	staniki	sujetadores	bra	ブラジャー	브래지어	mga bra	ब्रा
+	pornstar	estrela porno	порнозвезда	Pornostar	pornostar	star du porno	gwiazda porno	estrella porno	bintang porno	ポルノスター	여배우	pornstar	अभिनेता
+	porno	pornô	порно	Porno	porno	porno	porno	porno	porno	ポルノ	포르노	porno	अश्लील
+	bitches	cadelas	суки	Hündinnen	cagne	les chiennes	suki	perras	pelacur	愚痴	암캐들	mga asong babae	वो साले
+	tit	teta	синица	Meise	tetta	mésange	cycek	teta	dada	シジュウカラ	젖꼭지	tite	चूची
+	handjob	punheta	дрочка	Handjob	sega	branlette	ręczna robota	paja	pekerjaan tangan	手コキ	주무르기	handjob	हाथ से काम करना
+	fucker	Idiota	Подонок	Ficker	Coglione	Enfoiré	skurwiel	Cabron	keparat	バカ	개자식	bastos	मूर्ख
+	urine	urina	моча	Urin	urina	urine	mocz	orina	air seni	尿	오줌	ihi	मूत्र
+	deepthroat	garganta Profunda	глубокая глотка	Deepthroating	gola profonda	gorge profonde	głębokie gardło	Garganta profunda	tenggorokan dalam	ディープスロート	목구멍 심술쟁이	malalim na lalamunan	डीप थ्रोट
+	doggystyle	estilo cachorrinho	собачьи	Doggystyle	pecorina	levrette	na pieska	estilo perrito	gaya doggy	小犬スタイル	독신 스타일	doggystyle	doggystyle
+	hottie	gostosa	красотка	heiße Schnitte	bomba	bombasse	laska	bombón	seksi	湯たんぽ	매력	hottie	आकर्षक
+	nudes	nus	обнаженные	Akte	nudi	nus	nagość	desnudos	telanjang	ヌード	누드	nakahubad	जुराब
+	sexiest	mais sexy	самый сексуальный	am sexiesten	più sexy	le plus sexy	najseksowniejszy	más sexy	paling seksi	最もセクシーな	가장 섹시한	pinakasexy	कामुक
+	panty	calcinha	трусики	Höschen	mutandine	culotte	majtki	bragas	celana dalam	パンティー	팬티	panty	पैंटी
+	tempted	tentado	искушенный	versucht	tentato	tenté	Skuszony	tentado	tergoda	誘惑される	유혹을 받다	tinutukso	परीक्षा
+	unzip	descompactar	разархивировать	entpacken	decomprimere	décompresser	rozsunąć suwak	abrir la cremallera	buka zip	解凍する	압축을 풀다	i-unzip	खोलना
+	sucker	otário	лох	Saugnapf	ventosa	ventouse	przyssawka	ventosa	memperdaya	吸盤	빨판	pasusuhin	चूसने वाला
+	shota	shota	шота	Shota	shota	coup de feu	strzał	shota	tembakan	ショタ	쇼타	shota	Shota
+	assholes	idiotas	придурки	Arschlöcher	stronzi	connards	dupki	pendejos	bajingan	ろくでなし	멍청이들	mga asshole	बेवकूफों
+	bum	vagabundo	бездельничать	miserabel	barbone	clochard	tyłek	culo	gelandangan	お尻	부랑자	bum	नितंब
+	masterbating	masterização	мастербейтинг	Masterbating	masterbating	masterbating	mistrzowskie	masterbating	masterbating	マスターベーション	마스터베이션	masterbating	मास्टरबेट करना
+	calcinha	calcinha	кальцинья	calcinha	calcina	calcinha	kalcynha	calcinha	kalsium	カルシーニャ	칼시나	calcinha	कैल्सिन्हा
+	boobies	peitos	олухи	Tölpel	sule	fous	cycuszki	piqueros	payudara	カツオドリ	가슴	boobies	उल्लू
+	titty	maminha	сиськи	Tittenfick	tetta	seins	cycek	teta	payudara	おっぱい	가슴	titty	! Titty
+	pornographic	pornográfico	порнографический	pornographisch	pornografico	pornographique	pornograficzny	pornográfico	porno	ポルノ的な	외설적인	pornograpiko	अश्लील
+	uterus	útero	матка	Gebärmutter	utero	utérus	macica	útero	rahim	子宮	자궁	matris	गर्भाशय
+	tanga	tanga	танга	Tanga	tanga	Tanga	tanga	tanga	tanga	タンガ	탄가	tanga	टांगा
+	arse	bunda	жопа	Arsch	culo	cul	tyłek	culo	pantat	お尻	나귀	puwet	गधा
+	sexi	sexy	секси	sexi	sexi	sexy	seksi	sexy	seksi	セクシー	섹시한	sexi	सेक्सी
+	punta	ponta	Пунта	punta	punta	pointe	punta	punta	punta	プンタ	푼타	punta	पंटा
+	wtf	que merda	черт возьми	wtf	che cavolo	wtf	wtf	wtf	bagaimana	なんと！	뭐야	wtf	wtf
+	sexe	sexo	пол	Geschlecht	sesso	sexe	seks	sexo	jenis kelamin	セックス	성별	kasarian	सेक्स
+	motherfucker	filho da puta	ублюдок	Wichser	figlio di puttana	connard	skurwielu	hijo de puta	bajingan	クソ野郎	개자식	bastos	कमीने
+	prostitution	prostituição	проституция	Prostitution	prostituzione	la prostitution	prostytucja	prostitución	pelacuran	売春	매춘	prostitusyon	वेश्यावृत्ति
+	masterbate	masterbate	мастербейт	masterbate	masterbate	masterbate	mistrzowskie	masterbate	masterbate	マスターベート	마스터베이트	masterbate	मास्टरबेट
+	puto	puto	пути	puto	puto	puto	puto	puto	puto	プート	O를 넣어	puto	पुटो
+	seks	sexo	секс	Sex	seks	sexe	seks	sexo	seks	セクス	섹스	seks	सेक्स
+	shemale	travesti	транссексуал	Transen	trans	transexuelle	shemale	transexual	waria	ニューハーフ	쉬메일	shemale	किन्नर
+	melons	melões	дыни	Melonen	meloni	melons	melony	melones	melon	メロン	멜론	mga melon	ख़रबूज़े
+	chub	caboz	голавль	Döbel	cavedano	chevaine	kleń	cacho	dari pengalaman	チャブ	처브	chub	चूब
+	pepe	Pepê	Пепе	Pepe	pepe	pépé	pepe	pepe	pepe	ペペ	페페	pepe	पेपे
+	hooker	prostituta	проститутка	Nutte	prostituta	talonneur	prostytutka	puta	pelacur	フッカー	매춘부	kabit	पतुरिया
+	jizz	porra	сперма	Sperma	sperma	sperme	wytrysk	semen	air mani	精液	지즈	jizz	वीर्य
+	nagi	nagi	наги	nagi	nagi	nagi	nagi	nagi	nagi	ナギ	나기	nagi	नागी
+	viola	viola	альт	Viola	viola	alto	altówka	viola	biola	ビオラ	비올라	viola	वाइला
+	pornhub	pornhub	порнхаб	pornhub	pornohub	pornohub	pornohub	pornohub	pornhub	ポルノハブ	포르노허브	pornhub	पोर्नहब
+	bobs	bobs	качается	Bobs	bob	bobs	Boby	sacudidas	bob	ボブ	밥	bobs	bobs के
+	randy	excitado	Рэнди	geil	lascivo	excité	krzykliwy	cachondo	terangsang	ランディ	랜디	randy	भिखारिन
+	dickhead	idiota	придурок	Schwachkopf	testa di cazzo	tête de bite	kretyn	gilipollas	brengsek	ディックヘッド	멍청이	dickhead	गधे
+	puke	vomitar	блевать	Kotzen	vomito	dégueuler	rzygać	vómito	muntah	吐く	구토	sumuka	उलटी
+	rump	garupa	крупа	Rumpf	groppa	croupe	zad	grupa	pantat	お尻	엉덩이	puwitan	दुम
+	underpants	cuecas	Трусы	Unterhose	mutande	slip	slipy	calzoncillos	celana dalam	パンツ	팬티	salawal	जांघिया
+	homo	homo	гомо	Homo	omo	homo	homo	homo	homo	ホモ	호모	homo	होमोसेक्सुअल
+	willy	querido	Вилли	willy	Willy	Willy	Willy	colita	mau tak mau	ウィリー	윌리	willy	चंट
+	nips	beliscões	куски	Nips	colpi	pincements	sutki	pellizcos	gigitan	ニップ	닙	nips	निप्स
+	spunk	coragem	сперма	Sperma	sperma	cran	odwaga	agallas	keberanian	元気な	정액	matapang	साहस
+	kasar	kasar	Касар	kasar	kasar	kasar	kasar	kasar	kasar	カザール	카사르	kasar	कसार
+	puss	gato	киска	Kater	micio	chat	kot	cara	kucing	うんこ	고양이	pusa	खरहा
+	seksi	sexo	секси	sexy	seksi	sexy	seksi	sexy	seksi	セクシ	섹시	seks	क्लिप्स
+	fuckers	filhos da puta	лохи	Scheißer	stronzi	connards	skurwiele	cabrones	bajingan	クソ野郎	새끼들	mga bastos	fuckers के लिए
+	fick	droga	фигня	Scheiße	cazzo	merde	fiut	joder	fick	いじる	픽	fick	फिक
+	sperma	esperma	сперма	Sperma	sperma	sperme	plemniki	esperma	sperma	精子	정자	tamud	स्पर्म
+	buttock	nádega	ягодица	Gesäß	natica	fesse	pośladek	nalga	pantat	臀部	엉덩이	puwitan	चूतड़
+	fanny	fanny	Фанни	Fanny	fanny	chatte	dupa	coño	fanny	ファニー	엉덩이	fanny	पिछाड़ी
+	pipi	pipi	пипи	pipi	pipì	pipi	pipi	pipi	pipi	ピピ	피피	pipi	पिपी
+	douche	idiota	душ	Dusche	doccia	douche	natrysk	ducha	mandi air panas	潅水	주수	dumudugo	खंगालना
+	cueca	cueca	куэка	cueca	cueca	cueca	cueca	cueca	cueca	クエカ	쿠에카	cueca	क्यूका
+	pussys	maricas	киски	Muschis	fighe	chattes	Cipki	coños	vagina	マンコ	보지	mga puki	किशोरों की समलैगिंकों
+	payudara	payudara	Пайудара	payudara	payudara	payer	payudara	payudara	payudara	パユダラ	파유다라	payudara	पयुदरा
+	fuc	porra	блядь	fuc	fuc	putain	fuj	fuc	sialan	ふーん	씨발	fuc	बकवास
+	s3x	s3x	s3x	s3x	s3x	s3x	s3x	s3x	s3x	s3x	s3x	s3x	s3x
+	tramp	vagabundo	бродяга	Tramp	vagabondo	clochard	Tramp	vagabundo	gelandangan	浮浪者	도보 여행가	padyak	आवारा
+	condon	perdão	оправдывать	Kondom	condono	pardonner	prezerwatywa	perdonar	memaafkan	コンドン	용납하다	condon	कांडों
+	sexs	sexos	пол	Geschlechter	sessi	sexes	płcie	sexos	jenis kelamin	性別	섹스	mga kasarian	लिंग
+	adultery	adultério	прелюбодеяние	Ehebruch	adulterio	adultère	cudzołóstwo	adulterio	zina	姦通	간통	pangangalunya	व्यभिचार
+	pika	pika	пищуха	Pika	pika	pika	pika	pika	pika	ナキウサギ	피카	pika	पिका
+	fck	foda-se	ебать	scheiße	cazzo	putain	kurwa	joder	sialan	ファック	fck	fck	फ़क
+	masterbation	masterbação	мастербация	Masterbation	masterbation	masterbation	masterbacja	masterbación	masterbasi	マスターベーション	마스터베이션	masterbation	हस्तमैथुन
+	pinche	beliscar	щепотка	kneifen	pizzico	pincer	uszczypnąć	pinchar	mencubit	ピンチェ	핀치	kurot	चुटकी
+	bicho	bicho	бичо	bicho	bicho	bicho	bicho	bicho	bicho	ビチョ	비초	bicho	बिचो
+	bich	bichinho	сука	Bich	cagna	biche	bicz	bicho	jalang	ビッチ	비치	bich	बिच
+	booby	bobo	олух	Dummkopf	tonto	nigaud	głupek	bobo	bodoh	ブービー	얼간이	booby	मूर्ख
+	asss	bunda	задница	Arsch	culo	cul	tyłek	culo	pantat	お尻	엉덩이	asss	गधा
+	chum	amigo	приятель	Kumpel	amico	ami	kolega	amigo	sahabat karib	友達	친구	chum	दोस्त
+	lmfao	lmfao	Имфао	lmfao	lmfao	lmfao	nieważne	lmfao	lmfao	ふむふむ	ㅋㅋㅋㅋㅋ	lmfao	lmfao
+	dik	idiota	дик	dik	dick	dik	dik	dik	dik	ディク	딕	dik	डिक
+	kamasutra	Kamasutra	камасутра	Kamasutra	Kamasutra	kamasutra	kamasutra	kamasutra	kamasutra	カーマスートラ	카마수트라	kamasutra	कामसूत्र
+	titi	titi	Тити	titi	titi	titi	titi	tití	titi	ティティ	티티	titi	कॉक
+	raper	estuprador	насильник	Vergewaltiger	stupratore	violeur	raper	violador	pemerkosa	レイパー	강간범	raper	रैपर
+	fuk	merda	блядь	Scheiße	cavolo	putain	fuj	joder	fuk	クソ	씨발	fuk	फ़क
+	motherfuckers	filhos da puta	ублюдки	Wichser	figli di puttana	enfoirés	skurwysyny	hijos de puta	bajingan	クソ野郎	개자식들	mga bastos	कमीने
+	vergin	virgem	девственница	Anfang	vergine	marge	vergin	virgen	hampir	ヴァージン	버진	vergin	vergin
+	kurwa	Kurwa	курва	Kurwa	Kurwa	kurwa	kurwa	kurwa	kurwa	曲輪	쿠르와	kurwa	कुरवा
+	pecker	pica-pau	клюв	Schwanz	uccello	quéquette	kutas	pájaro carpintero	cotok	ペッカー	곡괭이	pecker	चोंच
+	pusy	chato	киска	Pusy	pusì	pusy	cipka	pusy	pus	マンコ	보지	puki	बिल्ली
+	mamilo	Mamilo	Мамило	Mamilo	mamilo	maman	mamo	mamilo	mamalo	マミロ	마밀로	mamilo	मैमिलो
+	bumb	vagabundo	тупица	Blödmann	stupido	idiot	głupek	vago	bodoh	ダメだ	멍청이	bumb	बम्ब
+	nippel	mamilo	сосок	nippel	capezzolo	mamelon	sutek	pezón	puting	ニッペル	니펠	utong	निपल
+	pennis	pênis	пеннис	pennis	pene	pennis	pens	pene	uang receh	ペニス	페니스	pennis	लिंग`
 
 var suicideKeywordsText = `自杀	Kill myself	Me matar	Убить себя	Mich umbringen	Uccidermi	Me tuer	Zabiję się	Suicidarme	Bunuh diriku	自分を殺してください	자살	Patayin ang sarili	अपने आप को मारना
 自杀	Suicide	Suicídio	Самоубийство	Selbstmord	Suicidio	Suicide	Samobójstwo	Suicidio	Bunuh diri	自殺	자살	Pagpapakamatay	आत्मघाती
