@@ -21,8 +21,7 @@ func ParseGeminiAccountJson() {
 		if strings.TrimSpace(item) == "" {
 			continue
 		}
-
-		item = item[len(item)-35:]
+		item = item[len(item)-39:]
 		newAccountInfo = append(newAccountInfo, &AccountInfo{
 			SecurityInfo: &SecurityInfo{Token: item},
 		})
@@ -105,91 +104,3 @@ const (
 	ErrorTypeNotFoundError    ErrorType = 98 //账号错误
 	ErrorTypeNotOtherInfo     ErrorType = 99 //其他限制
 )
-
-var newAccountInfoStr = `
-neillgathings310@gmail.com----5ohnl0tzoi----ezreilya@hotmail.com-----AIzaSyB9o9St-VqzzF9iCXtckKxfNL-2AL8-AYI
-wingrectrippduchsjessica@gmail.com----cNe5Nk6C3G3F----renrelisbio@email.com---AIzaSyAr5E2fsguF_f6ZtjbzGdXX9CEe5JHrTzM
-signmatcgreenmortaaron@gmail.com----vxAY9KLNeF0R----vermyonulpai@outlook.cz----AIzaSyCH635qHm0Nk9Sxbz4Gm4WoCEEdwCRtPJE
-vildicaltuashley@gmail.com----JmjI6mSBMnm----truthewipov@outlook.com.br-----AIzaSyCehkVprLm3bLueJv6IRphQjo-n9gdnPNQ
-updacmanejim@gmail.com----90shUn9D7JRc----mestcongtanggen@outlook.co.il----AIzaSyD4FE0MyV04foCxy0BUvS1rmsjK1mZRxyM
-miljanovicin@gmail.com----DMedJWom50IY----exicenwah@mailbox.org----AIzaSyB2j8OjvtyJA2J7MLD2xBZgchHEsRJPA4E
-icitdebu1977@gmail.com----vFpivHmENwPQTJ----spotimunas@mailbox.org----AIzaSyDFI4FtinV2sKlXye3lMCJh-lnQ2c-07eA
-finneganmike050@gmail.com----36L2cfnH5Ggb----ddevubrysli@mail.com----AIzaSyD7AVtUQx5hExMmY7sNhYYr9YtH5q_M3u4
-sinpesthemo1972@gmail.com----fsjV1bay8TolR----swapadlogleu@mailbox.org----AIzaSyACnnFUiwZlt7bfV9PuE6V7QOxEHdbxZ20
-wohlmansam1@gmail.com----Fyk5lcpeBGrnW----dentiemali@mail.com----AIzaSyDYD63Ql3keE0f_GMVK5zUHECbbKZuwALM
-`
-
-var defaultConfigStr = `
-{
-  "accountInfos": [
-    {
-      "securityInfo": {
-        "token": "AIzaSyB9o9St-VqzzF9iCXtckKxfNL-2AL8-AYI"
-      }
-    },
-    {
-      "securityInfo": {
-        "token": "AIzaSyAr5E2fsguF_f6ZtjbzGdXX9CEe5JHrTzM"
-      }
-    },
-    {
-      "securityInfo": {
-        "token": "AIzaSyCH635qHm0Nk9Sxbz4Gm4WoCEEdwCRtPJE"
-      }
-    },
-    {
-      "securityInfo": {
-        "token": "AIzaSyCehkVprLm3bLueJv6IRphQjo-n9gdnPNQ"
-      }
-    },
-    {
-      "securityInfo": {
-        "token": "AIzaSyD4FE0MyV04foCxy0BUvS1rmsjK1mZRxyM"
-      }
-    },
-    {
-      "securityInfo": {
-        "token": "AIzaSyB2j8OjvtyJA2J7MLD2xBZgchHEsRJPA4E"
-      }
-    },
-    {
-      "securityInfo": {
-        "token": "AIzaSyDFI4FtinV2sKlXye3lMCJh-lnQ2c-07eA"
-      }
-    },
-    {
-      "securityInfo": {
-        "token": "AIzaSyD7AVtUQx5hExMmY7sNhYYr9YtH5q_M3u4"
-      }
-    },
-    {
-      "securityInfo": {
-        "token": "AIzaSyACnnFUiwZlt7bfV9PuE6V7QOxEHdbxZ20"
-      }
-    },
-    {
-      "securityInfo": {
-        "token": "AIzaSyDYD63Ql3keE0f_GMVK5zUHECbbKZuwALM"
-      }
-    }
-  ],
-  "commonAccountExpiredInfo": {
-  },
-  "commonRequestRateLimitingInfos": [
-    {
-      "request_rate_limiting": 1500,
-      "request_rate_unit": 4
-    },
-    {
-      "request_rate_limiting": 15,
-      "request_rate_unit": 2
-    }
-  ],
-  "commonRequestTokenLimitInfos": [
-    {
-      "request_token_limiting": 32000,
-      "request_token_unit": 2
-    }
-  ]
-}
-`

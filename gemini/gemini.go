@@ -34,7 +34,7 @@ func (g GeminiWorker) do() {
 	hpClient := &http.Client{
 		Transport: transport,
 	}
-	client, err := genai.NewClient(ctx, option.WithAPIKey("AIzaSyDptTcMLyRHIp-xgehxe2CNJVaI4u8RwvU"), option.WithHTTPClient(hpClient))
+	client, err := genai.NewClient(ctx, option.WithAPIKey(testKey), option.WithHTTPClient(hpClient))
 	if err != nil {
 		log.Fatal(err)
 	}
