@@ -1,7 +1,15 @@
 package main
 
-import "peekaboo_tools/sensitive"
+import (
+	"log"
+	"peekaboo_tools/gemini"
+)
 
 func main() {
-	sensitive.Do()
+	//sensitive.Do()
+	log.SetFlags(log.Ldate | log.Lshortfile)
+	//dynamo.NewDynamoDbV1Test().Do()
+	//dynamo.NewDynamoDbTest().Do()
+	//gemini.NewGeminiWorker().Do()
+	gemini.ParseGeminiAccountJson()
 }
